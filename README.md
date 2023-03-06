@@ -1,3 +1,3 @@
-# cudaBlur
+# cuda-labs
 
-An implementation of basic blur in cuda 
+Some colab implmentations in cuda for class
